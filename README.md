@@ -1,4 +1,6 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+<img width="294" alt="image" src="https://github.com/vinayboggavarapu/dice-game/assets/93525364/90a03668-27f0-48e4-a7c9-3a521e50d518">
+
 
 # Getting Started
 
